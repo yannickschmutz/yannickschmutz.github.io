@@ -30,7 +30,7 @@ author:
   employer         : "University of Fribourg"
   uri              : "https://www.unifr.ch/ecopub/fr/chaire/team/yannick-schmutz.html"
   email            : "yannick.schmutz@unifr.ch"
-  cv               : # "/files/CV_Schmutz.pdf" - uncomment once the PDF is in files/ to show a CV link in the sidebar
+  cv               : "/files/CV_Schmutz.pdf"
 
   # Academic websites
   academia         : # URL

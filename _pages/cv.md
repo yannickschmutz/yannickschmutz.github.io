@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- Upload your CV as files/CV_Schmutz.pdf, then remove the comment markers around the next line. -->
-<!-- [**Download my CV (PDF)**](/files/CV_Schmutz.pdf) -->
+[**Download my CV (PDF)**](/files/CV_Schmutz.pdf)
 
 Education
 ======

@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher at the **Mobiliar Center for Resilience** at the [University of Fribourg](https://www.unifr.ch/econ/en/) (Switzerland), where I work on the project *Resilience of the Swiss Firm Network*. I am also a Research Fellow at the [Chair of Public Economics](https://www.unifr.ch/ecopub/fr/).
-
-I completed my PhD in Economics at the University of Fribourg in 2026 under the supervision of Mark Schelker. My thesis, *The Spatial Organization of Firms in Switzerland*, was awarded *Summa Cum Laude* and the **Prix Vigener 2026** for the best doctoral thesis of the Faculty of Management, Economics and Social Sciences.
+I am a Senior Researcher at the **Mobiliar Center for Resilience** at the [University of Fribourg](https://www.unifr.ch/econ/en/) (Switzerland), where I work on the project *Resilience of the Swiss Firm Network*. I am also a Research Fellow at the [Chair of Public Economics](https://www.unifr.ch/ecopub/fr/), and I completed my PhD in Economics at the University of Fribourg in 2026 under the supervision of Mark Schelker.
 
 My research lies in **urban and regional economics** and **law and economics**. I study how infrastructure, place-based policies, corporate law, distance, and borders shape where firms locate, how they are created and disappear, and how they are connected to each other through their boards of directors.
 

@@ -11,13 +11,14 @@ I am a Senior Researcher at the **Mobiliar Center for Resilience** at the [Unive
 
 I completed my PhD in Economics at the University of Fribourg in 2026 under the supervision of Mark Schelker. My thesis, *The Spatial Organization of Firms in Switzerland*, was awarded *Summa Cum Laude* and the **Prix Vigener 2026** for the best doctoral thesis of the Faculty of Management, Economics and Social Sciences.
 
-My research lies in **urban and regional economics**. I study how infrastructure, place-based policies, distance, and borders shape where firms locate, how they are created and disappear, and how they are connected to each other through their boards of directors.
+My research lies in **urban and regional economics** and **law and economics**. I study how infrastructure, place-based policies, corporate law, distance, and borders shape where firms locate, how they are created and disappear, and how they are connected to each other through their boards of directors.
 
 To do so, I built a new historical database by digitizing the *Répertoire des administrateurs des sociétés anonymes suisses*, a registry listing all Swiss limited companies and their directors from 1934 to 2003. It allows me to follow the Swiss corporate landscape and its corporate network at the municipal level over six decades.
 
 My research focuses on:
 
 - **Transport infrastructure** and firm dynamics (creation, death, and relocation of firms)
+- **Corporate law and business regulation**: how legal rules such as minimum capital requirements screen firms, shape the choice of legal form, and affect creditor protection
 - **Place-based policies** and their local and spatial effects
 - **Firm networks and interlocking directorates**, and how borders and distance shape them
 

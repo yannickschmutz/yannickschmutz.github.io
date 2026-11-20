@@ -16,6 +16,19 @@ redirect_from:
 Working Papers
 ======
 
+### Screening Incumbents, Shifting Entrants: Higher Minimum Capital Requirements and Swiss Corporations
+<!-- [PDF](/files/Paper_Policy_Capital_v3.pdf) -->
+
+Minimum capital requirements are meant to protect creditors, yet the evidence comes from reforms that lowered them for new firms. In 1991, Switzerland doubled the minimum capital of corporations and imposed it on existing firms, exempting those founded before 1985. In a regression discontinuity design in the founding date, bound firms were 50 percentage points more likely to raise their capital and 8 percentage points more likely to exit. The additional exits were deletions, concentrated among firms with a single or nominee director. Entry shifted to the cheaper limited liability company. We find no evidence of fewer insolvencies.
+
+**Setting and design**
+- **The reform:** the 1991 revision of Swiss company law doubled the minimum share capital of corporations (AG) from CHF 50,000 to CHF 100,000 and applied it retroactively to existing firms, which had until 1997 to comply or be dissolved.
+- **Identification:** corporations founded before 1 January 1985 were exempt. Because the cutoff already lay in the past when it was adopted, firms founded days apart on either side of it can be compared in a sharp regression discontinuity design, with firms that already had CHF 100,000 as a placebo group.
+- **Data:** a newly digitized panel of all Swiss corporations and their board members, 1934–2003, combined with the exact registration dates from the commercial register.
+- **Why it matters:** unlike reforms that lowered requirements for new firms, this one reached incumbents, so it shows whether minimum capital actually screens out undercapitalized and shell companies, and whether creditors end up safer.
+
+---
+
 ### Highway Access, Firm Dynamics, and Urban Shadows
 *With Mark Schelker*
 <!-- [PDF](/files/Schelker_Schmutz_Highways.pdf) -->
@@ -43,7 +56,6 @@ Work in Progress
 - **Urban Hubs: Interlocking Directorates, Agglomeration and Network Centrality**
 - **Expensive Overnight: Foreign Tourists, the Swiss Franc Shock, and Local Employment**  
   *With Noah Zieser*
-- **Screening Incumbents, Shifting Entrants: Higher Minimum Capital Requirements and Swiss Corporations**
 
 Research Project
 ======

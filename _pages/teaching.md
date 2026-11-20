@@ -5,12 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!-- Replace the examples below with your own courses. -->
-
 University of Fribourg
 ======
 
-**Teaching Assistant**
+Teaching & Research Assistant to Prof. Mark Schelker, Chair of Public Economics, 2019–2026.
 
-- *Course name* (Bachelor / Master), Prof. Name, Semester Year
-- *Course name* (Bachelor / Master), Prof. Name, Semester Year
+**Bachelor**
+
+- *Économie publique I*
+- *Économie publique II – Approfondissement* (co-teaching since 2022)
+
+**Master** (2019–2024)
+
+- *Politiques publiques suisses*
+- *The Economics of Politics*
+- *Empirical Public Economics*
+- *Behavioral Public Economics*
+
+Training
+======
+
+- CAS in Higher Education and Education Technology, Center for University Didactics, University of Fribourg (2023–2026)

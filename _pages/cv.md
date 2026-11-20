@@ -48,6 +48,12 @@ Other Writing
 - Op-eds in *Le Temps* (2020, 2021) and *Watson* (2022) on federalism and media policy (with Mark Schelker)
 - Expert report for the Canton of Geneva on municipal financing of social services and fiscal equalization, 2021 (with Mark Schelker)
 
+Media and Public Debates
+======
+- **2026**: Interview, "Grands projets : Les gens ne sont pas plus individualistes". *Frapp*, 17.06.2026
+- **2021**: Interview / radio debate, "Service compris – Fédéralisme". *Radio Fribourg*, 29.09.2021
+- **2021**: Panelist, public debate "Fédéralisme – Un pour tous ou tous pour un ?". *Cafés scientifiques de l'Université de Fribourg*, Nouveau Monde, 29.09.2021
+
 Skills
 ======
 - **Software**: Stata, LaTeX (proficient); R (intermediate); Python, Cytoscape (basics)
